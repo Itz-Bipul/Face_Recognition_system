@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # -------- DATASET PATH --------
-dataset_path = "/Users/bipuldas/Downloads/Face_Recognition/Dataset"
+dataset_path = "/Users/bipuldas/Downloads/Face_Recognition_System/Dataset"
 print("Dataset files:", os.listdir(dataset_path))
 
 images = []
